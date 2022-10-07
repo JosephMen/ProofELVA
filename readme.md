@@ -1,0 +1,2 @@
+The execution of these 2 programs is designed to be done directly on the console.
+They will ask for inputs and return the output. For the .js file it will be executed with node and for python with the python compiler.
